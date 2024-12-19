@@ -1,3 +1,4 @@
+# testing the pre trained model for sinlge images
 import torch
 import matplotlib.pyplot as plt
 from torchvision import transforms

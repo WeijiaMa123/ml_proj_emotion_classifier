@@ -1,3 +1,6 @@
+# Testing the pre trained model
+# Ran as python file to use computer's GPU for speed
+# google colab needs some different setup to enable computer's own GPU
 import torch
 import os
 import cv2
